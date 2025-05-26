@@ -36,7 +36,6 @@ Other Tools : Stripe, Paymob, JWT, Firebase Auth, Clean Architecture, BLoC, CI/C
 	•	🐦 Twitter: @karimelsherbin1
 	•	📸 Instagram: @karimelsherbinii
 	•	📘 Facebook: karim.elsherbinii
-	•	📂 Portfolio: https://karimelsherbinyy.web.app
 	•	📄 Resume: View on Google Drive
 
 ⸻
