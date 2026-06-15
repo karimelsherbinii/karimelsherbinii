@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 I'm a **Software Engineer** with over **3+ years of experience**
+- 🔧 I'm a **Software Engineer** with over **5+ years of experience**
 - 🧠 Skilled in **Flutter**, **PHP Laravel**, **Dart**, **Swift**, and **Firebase**
 - 🧩 Experienced in **Clean Architecture**, **API integrations**, **Real-time apps (WebSocket, Firebase)**, and **SaaS product development**
 - 🛠 Built and scaled apps for companies like **Midade**, **Rizme**, and **IFIN**
